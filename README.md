@@ -1,1 +1,1 @@
-# Image_Retreival_Practice
+# Image_Retrieval_Practice
