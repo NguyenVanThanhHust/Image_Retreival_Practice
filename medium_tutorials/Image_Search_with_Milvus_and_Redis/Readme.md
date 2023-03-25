@@ -1,0 +1,1 @@
+https://medium.com/vector-database/4-steps-to-building-a-video-search-system-5a3ced633308
